@@ -2,7 +2,7 @@
   "name": "apol-bot",
   "version": "1.0.0",
   "description": "Fun general purpose discord bot you can use with friends!",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/MatthewAvarello/APOL-bot/issues"
   },
