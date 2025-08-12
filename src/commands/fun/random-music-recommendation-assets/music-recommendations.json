@@ -1,0 +1,300 @@
+{
+   "songs": [
+      {
+        "name": "The Wolves Die Young",
+        "author": "Sonata Arti",
+        "url": "https://www.youtube.com/watch?v=nUahUeQU1FU&list=RDnUahUeQU1FU&start_radio=1"
+      },
+      {
+        "name":"You're Gonna Go Far, Kid",
+        "author": "The Offspring",
+        "url": "https://www.youtube.com/watch?v=weqK155M_4o"
+      },
+      {
+        "name":"Wake Me up When September Ends",
+        "author": "Green Day",
+        "url": "https://www.youtube.com/watch?v=pGhwBFYtn1s&list=RDpGhwBFYtn1s&start_radio=1"
+      },
+      {
+        "name": "Megadeth - A Tout Le Monde [OFFICIAL VIDEO]",
+        "author": "Megadeth",
+        "url": "http://www.youtube.com/watch?v=iEyOwLY3rV4"
+      },
+      {
+        "name": "Peace Sells",
+        "author": "Megadeth",
+        "url": "http://www.youtube.com/watch?v=5qmCuwDYidw"
+      },
+      {
+        "name":"For Whom the Bell Tolls",
+        "author": "Metallica",
+        "url": "http://www.youtube.com/watch?v=HNybmS3xNAQ"
+      },
+      {
+        "name": "Welcome To The Jungle",
+        "author": "Guns N' Roses",
+        "url": "http://www.youtube.com/watch?v=o1tj2zJ2Wvg"
+      },
+      {
+        "name": "Human",
+        "author": "RagnBoneMan",
+        "url": "http://www.youtube.com/watch?v=L3wKzyIN1yk"
+      },
+      {
+        "name": "I'm Still Standing",
+        "author": "Elton John",
+        "url": "http://www.youtube.com/watch?v=MJ_aPtt4U8M"
+      },
+      {
+        "name": "Home For A Rest",
+        "author": "Spirit Of The West",
+        "url": "http://www.youtube.com/watch?v=crIk87-mPzY"
+      },
+      {
+        "name": "Eye Of The Tiger",
+        "author": "Survivor",
+        "url": "http://www.youtube.com/watch?v=btPJPFnesV4"
+      },
+      {
+        "name": "Sweet Child O' Mine",
+        "author": "Guns N' Roses",
+        "url": "http://www.youtube.com/watch?v=1w7OgIMMRc4"
+      },
+      {
+        "name": "Paradise City",
+        "author": "Guns N' Roses",
+        "url": "http://www.youtube.com/watch?v=Rbm6GXllBiw"
+      },
+      {
+        "name": "You Give Love A Bad Name",
+        "author": "Bon Jovi",
+        "url": "http://www.youtube.com/watch?v=KrZHPOeOxQQ"
+      },
+      {
+        "name": "Basket Case",
+        "author": "Green Day",
+        "url": "http://www.youtube.com/watch?v=NUTGr5t3MoY"
+      },
+      {
+        "name": "American Idiot",
+        "author": "Green Day",
+        "url": "http://www.youtube.com/watch?v=Ee_uujKuJMI"
+      },
+      {
+        "name": "Take On Me",
+        "author": "a-ha",
+        "url": "http://www.youtube.com/watch?v=djV11Xbc914"
+      },
+      {
+        "name": "Boulevard Of Broken Dreams",
+        "author": "Green Day",
+        "url": "http://www.youtube.com/watch?v=Soa3gO7tL-c"
+      },
+      {
+        "name": "All Star",
+        "author": "Smash Mouth",
+        "url": "http://www.youtube.com/watch?v=L_jWHffIx5E"
+      },
+      {
+        "name": "Black Betty",
+        "author": "Ram Jam",
+        "url": "http://www.youtube.com/watch?v=I_2D8Eo15wE"
+      },
+      {
+        "name": "Should I Stay or Should I Go",
+        "author": "The Clash",
+        "url": "http://www.youtube.com/watch?v=xMaE6toi4mk"
+      },
+      {
+        "name": "Good Riddance (Time of Your Life)",
+        "author": "Green Day",
+        "url": "http://www.youtube.com/watch?v=CnQ8N1KacJc"
+      },
+      {
+        "name": "Take No Prisoners",
+        "author": "Megadeth",
+        "url": "http://www.youtube.com/watch?v=gVgX4n6v52k"
+      },
+      {
+        "name": "Holy Wars...The Punishment Due",
+        "author": "Megadeth",
+        "url": "http://www.youtube.com/watch?v=9d4ui9q7eDM"
+      },
+      {
+  "name": "Roxanne",
+  "author": "The Police",
+  "url": "http://www.youtube.com/watch?v=3T1c7GkzRQQ"
+},
+{
+  "name": "Trust",
+  "author": "Megadeth",
+  "url": "http://www.youtube.com/watch?v=ivqKTwmCmks"
+},
+{
+  "name": "Train of Consequences",
+  "author": "Megadeth",
+  "url": "http://www.youtube.com/watch?v=3W4TZo2eiIY"
+},
+{
+  "name": "Smells Like Teen Spirit",
+  "author": "Nirvana",
+  "url": "http://www.youtube.com/watch?v=hTWKbfoikeg"
+},
+{
+  "name": "Nothing Else Matters",
+  "author": "Metallica",
+  "url": "http://www.youtube.com/watch?v=tAGnKpE4NCI"
+},
+{
+  "name": "The Game",
+  "author": "Disturbed",
+  "url": "http://www.youtube.com/watch?v=xO-RsILjIfE"
+},
+{
+  "name": "Brain Stew/Jaded",
+  "author": "Green Day",
+  "url": "http://www.youtube.com/watch?v=UNq9gmY_Oz4"
+},
+{
+  "name": "My Name Is",
+  "author": "Eminem",
+  "url": "http://www.youtube.com/watch?v=4WBAgOhYLPw"
+},
+{
+  "name": "Still D.R.E. ft. Snoop Dogg",
+  "author": "Dr Dre",
+  "url": "http://www.youtube.com/watch?v=_CL6n0FJZpk"
+},
+{
+  "name": "MAMA",
+  "author": "My Chemical Romance",
+  "url": "http://www.youtube.com/watch?v=gCA4vQU26bc"
+},
+{
+  "name": "7 Years",
+  "author": "Lukas Graham",
+  "url": "http://www.youtube.com/watch?v=LHCob76kigA"
+},
+{
+  "name": "My mother told me",
+  "author": "Saltatio mortis",
+  "url": "http://www.youtube.com/watch?v=4dIiN57DQOI"
+},
+{
+  "name": "In the End",
+  "author": "Green Day",
+  "url": "http://www.youtube.com/watch?v=6v_nIozQ8OM"
+},
+{
+  "name": "I Will Not Break",
+  "author": "Disturbed",
+  "url": "http://www.youtube.com/watch?v=9YICpjeGsbE"
+},
+{
+  "name": "Blood And Gasoline",
+  "author": "Virgin Steele",
+  "url": "http://www.youtube.com/watch?v=7lgY8f4Chhg"
+},
+{
+  "name": "Pop Cult Crucifixion",
+  "author": "Aviators",
+  "url": "http://www.youtube.com/watch?v=PEacccfGgQ8"
+},
+{
+  "name": "Red Water Dreams",
+  "author": "Aviators",
+  "url": "http://www.youtube.com/watch?v=TxB48MEAmZw"
+},
+{
+  "name": "Lost Boys",
+  "author": "Aviators",
+  "url": "http://www.youtube.com/watch?v=IWzzSNbq-8w"
+},
+{
+  "name": "Take it Easy",
+  "author": "Eagles",
+  "url": "http://www.youtube.com/watch?v=5igDtWadYms"
+},
+{
+  "name": "Hotel California",
+  "author": "Eagles",
+  "url": "http://www.youtube.com/watch?v=dLl4PZtxia8"
+},
+{
+  "name": "The Light",
+  "author": "Disturbed",
+  "url": "http://www.youtube.com/watch?v=e1UUAhZ3JzM"
+},
+{
+  "name": "Fire It Up",
+  "author": "Disturbed",
+  "url": "http://www.youtube.com/watch?v=3y9wv5QtTwo"
+},
+{
+  "name": "Legion Of Monsters",
+  "author": "Disturbed",
+  "url": "http://www.youtube.com/watch?v=ShijF3qADy4"
+},
+{
+  "name": "Tyrant!",
+  "author": "Disturbed",
+  "url": "http://www.youtube.com/watch?v=M4c1QZrMkwo"
+},
+{
+    "name": "We'll Be Back",
+    "author": "Megadeth",
+    "url": "http://www.youtube.com/watch?v=QCUzQhpgwXI"
+  },
+  {
+    "name": "Through the Fire and Flames",
+    "author": "DragonForce",
+    "url": "http://www.youtube.com/watch?v=0jgrCKhxE1s"
+  },
+  {
+    "name": "Hunting High and Low",
+    "author": "Stratovarius",
+    "url": "http://www.youtube.com/watch?v=kG4uQ6Tk7fY"
+  },
+  {
+    "name": "Stricken",
+    "author": "Disturbed",
+    "url": "http://www.youtube.com/watch?v=I77mjesUbkw"
+  },
+  {
+    "name": "We Are The Others",
+    "author": "Delain",
+    "url": "http://www.youtube.com/watch?v=5lZGhh41W9k"
+  },
+  {
+    "name": "Suckerpunch",
+    "author": "Delain",
+    "url": "http://www.youtube.com/watch?v=qmo06CrXP4M"
+  },
+  {
+    "name": "Felicita",
+    "author": "Al Bano & Romina Power",
+    "url": "http://www.youtube.com/watch?v=VfRhuYaDKLw"
+  },
+  {
+    "name": "Eri piccola così",
+    "author": "Mauro Piffero",
+    "url": "http://www.youtube.com/watch?v=CkREzpcVc7c"
+  },
+  {
+    "name": "Record Player",
+    "author": "Daisy the Great x AJR",
+    "url": "http://www.youtube.com/watch?v=3x2xtPV9oxQ"
+  },
+  {
+    "name": "Sober Up",
+    "author": "AJR",
+    "url": "http://www.youtube.com/watch?v=DC_TrsY7U3A"
+  },
+  {
+    "name": "Tokyo Ghetto トーキョーゲットー",
+    "author": "Eve",
+    "url": "http://www.youtube.com/watch?v=PvzBWFGEz8M"
+  }
+
+    ]
+}
