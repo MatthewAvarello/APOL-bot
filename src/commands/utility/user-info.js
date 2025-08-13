@@ -6,6 +6,11 @@ const data = new SlashCommandBuilder()
 
 
 async function execute(interaction) {
-    await interaction.reply(`This command was run by ${interaction.user.username}, who joined on ${interaction.member.joinedAt}.`) 
+    try {
+       await interaction.reply(`This command was run by ${interaction.user.username}, who joined on ${interaction.member.joinedAt}.`)  
+    } catch (error) {
+        console.log(error)
+    }
+    
 }
 export{execute,data}

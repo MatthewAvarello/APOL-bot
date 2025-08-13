@@ -8,7 +8,11 @@ const data = new SlashCommandBuilder()
 
 
 async function execute(interaction) {
-    let rng = random(0,jsondata.songs.length - 1)
-    await interaction.reply(`I recommend the song ${jsondata.songs[rng].name} by ${jsondata.songs[rng].author}. Here is the link: ${jsondata.songs[rng].url}. My list of random recommendations manually added by the developer is currently ${jsondata.songs.length} long!`);
+    try {
+        let rng = random(0,jsondata.songs.length - 1)
+        await interaction.reply(`I recommend the song ${jsondata.songs[rng].name} by ${jsondata.songs[rng].author}. Here is the link: ${jsondata.songs[rng].url}. My list of random recommendations manually added by the developer is currently ${jsondata.songs.length} long!`);
+    } catch (error) {
+        console.log(error)
+    }   
 }
 export{execute,data}

@@ -6,6 +6,11 @@ const data = new SlashCommandBuilder()
 
 
 async function execute(interaction) {
-    await interaction.reply(`This server is called ${interaction.guild.name} and has ${interaction.guild.memberCount} members.`);
+    try {
+        await interaction.reply(`This server is called ${interaction.guild.name} and has ${interaction.guild.memberCount} members.`);
+    } catch (error) {
+        console.log(error)
+    }
+    
 }
 export{execute,data}

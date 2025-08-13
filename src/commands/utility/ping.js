@@ -7,7 +7,11 @@ const data = new SlashCommandBuilder()
 
 
 async function execute(interaction){
-    await interaction.reply("Pong!")
+    try {
+        await interaction.reply("Pong!")
+    } catch (error) {
+       console.log(error) 
+    }
 }
 
 
