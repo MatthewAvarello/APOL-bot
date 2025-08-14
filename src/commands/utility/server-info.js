@@ -7,7 +7,7 @@ const data = new SlashCommandBuilder()
 
 async function execute(interaction) {
     try {
-        await interaction.reply(`This server is called ${interaction.guild.name} and has ${interaction.guild.memberCount} members.`);
+        await interaction.reply(`This server is called ${interaction.guild.name} and has ${interaction.guild.memberCount} members. It was created on ${interaction.guild.createdAt}`);
     } catch (error) {
         console.log(error)
     }

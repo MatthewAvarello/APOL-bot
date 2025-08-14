@@ -3,7 +3,7 @@ import { SlashCommandBuilder } from "discord.js";
 
 const data = new SlashCommandBuilder()
     .setName("ping")
-    .setDescription("Replies With Pong!");
+    .setDescription("Replies With Pong to check if bot is active!");
 
 
 async function execute(interaction){
